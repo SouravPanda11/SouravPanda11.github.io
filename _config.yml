@@ -12,7 +12,7 @@ title                    : "Sourav Panda"
 title_separator          : "-"
 name                     : &name "Sourav Panda"
 description              : &description "personal description"
-url                      : https://souravPanda11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SouravPanda11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SouravPanda11/SouravPanda11.github.io"
 
